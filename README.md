@@ -1,8 +1,6 @@
 # Customer_Behaviour_Analysis
 A Project done using python for EDA,SQL to answer business question and power bi for dashboard creation
 
-# Customer Behavior Analysis
-
 ## About the Project
 
 Customer Behavior Analysis is a data analytics project designed to understand how customers interact with products and make purchasing decisions. The project uses customer shopping data to analyze purchasing habits, spending patterns, product preferences, customer demographics, and other factors that influence sales.
